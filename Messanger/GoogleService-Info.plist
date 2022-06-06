@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>497441633987-60g21a2rc5vnb89sikmm8sj7gjk8lt14.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.497441633987-60g21a2rc5vnb89sikmm8sj7gjk8lt14</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlYcTvD8DsOFVX-52PJbW8yKqPL7Pji24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>497441633987</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SigmaTec.Messanger</string>
+	<key>PROJECT_ID</key>
+	<string>messanger-148ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messanger-148ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:497441633987:ios:66b96e72c03fafeca69476</string>
+</dict>
+</plist>
