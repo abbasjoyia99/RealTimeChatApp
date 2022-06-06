@@ -6,6 +6,22 @@ target 'Messanger' do
   use_frameworks!
   
   # Firebase
+  pod 'RealmSwift'
+    pod 'Firebase'
+    pod "Firebase/Core"
+    pod "Firebase/Auth"
+    pod "Firebase/Database"
+    pod "Firebase/Storage"
 
+    #Facebook
+    pod 'FBSDKLoginKit'
+
+    # Google Sign in
+    pod 'GoogleSignIn'
+
+    pod 'MessageKit'
+    pod 'JGProgressHUD'
+    
+    pod 'SDWebImage'
 
 end
