@@ -2,6 +2,16 @@
 
 # Messenger Real Time Chat App
 A beginners swift project to create a real time chat application in Swift 5 using Firebase.
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 17 08 30](https://user-images.githubusercontent.com/27265918/172158344-5e1bd0d3-56b9-474c-82e6-7f5ae8a2fa6e.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 17 12 26](https://user-images.githubusercontent.com/27265918/172158387-03f1da13-22a3-4a4c-91ef-2d7ef382967a.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 17 10 49](https://user-images.githubusercontent.com/27265918/172158590-13333892-b6a6-4d1b-9be8-859fdeab339e.png)
+
+
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 17 11 11](https://user-images.githubusercontent.com/27265918/172158603-b2387341-3470-448b-a19b-0fcecef5423d.png)
+
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-06-06 at 17 11 24](https://user-images.githubusercontent.com/27265918/172158638-4dce9187-5c83-4186-bd49-32601dab5f5e.png)
+
+
 # Source of Learning
 iOS academy: https://youtu.be/BZEluKixqDA
 
